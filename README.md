@@ -25,7 +25,7 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 📁 **What its cabable of**
 
-|-Crash or slow down a Chomebook from the amount of data
+|—Crash or slow down a Chomebook from the amount of data
 
 |—Make a tab unusable by message spamming
 
@@ -41,7 +41,9 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |— [Plain Version 1.0](https://github.com/sebastian-sestaliuc/MultiTool-for-browser/releases/tag/untagged-f03fd2da5d5c0e3db887
 )
-— **Latest**
+
+— **Latest** —
+
 |— [Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/untagged-af3b3e0ef39c2e8425b5)
 
 📁 **end**
