@@ -22,7 +22,7 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |— if you type 5, you will fetch the IP of the website's IP
 
-|— if you type github/, you can put 'source' to see the source if shared or 'seba495g' to see the contributor
+|— if you type github/, you can put 'source' to see the source if shared, or 'seba495g' to see the contributor
 
 📁 **What its capable of**
 
