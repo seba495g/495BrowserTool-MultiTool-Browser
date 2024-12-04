@@ -5,6 +5,8 @@ this MultiTool was made in JavaScript
 
 if your worried if this will take your personal infomation, go ahed use a one of those virus code checker!
 
+The recommended one is [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
 use this responsebly, since this is powerful for schools and even your own browser!
 
 📁 **This is how it works**
