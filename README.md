@@ -10,7 +10,7 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 📁 **How to use the MultiTool**
 
-|— Go to any website, i recommend [Google](google.com)
+|— Go to any website, i recommend [Google]([https://www.google.com)
 
 |— Press Ctrl+Shift+i to enter Inspect
 
