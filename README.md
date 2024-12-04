@@ -9,6 +9,7 @@ use this responsebly, since this is powerful for schools and even your own brows
 📁 **This is how it works**
 
 |—It asks you to type **1**, **2** or **3**.
+
 |—if you type 1, you'll get a JavaScript coded Calculator
 
 |—if you type 2, you'll make the tab unsuable by giving you a fake error message, aka. Self distruct
