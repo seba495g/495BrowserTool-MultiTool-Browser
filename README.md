@@ -7,15 +7,21 @@ if your worried if this will take your personal infomation, go ahed use [VirusTo
 
 use this responsebly, since this is powerful for schools and even your own browser!
 
-📁 **This is how it works**
+📁 **How to use the MultiTool**
 
-|—It asks you to type **1**, **2** or **3**.
+|—It asks you to type 1, 2, 3, 4, 5 or github/source or seba495g.
 
 |—if you type 1, you'll get a JavaScript coded Calculator
 
-|-if you type 2, you'll make the tab unsuable by giving you a fake error message, aka. Self distruct
+|-if you type 2, you'll make the tab unsuable by giving you a fake error message
 
-|-if you type 3, you'll crash the browser you have open, on a Chromebook the whole system will crash
+|-if you type 3, will make the browser unusable, and will freeze a Chomebook every 9 seconds
+
+|-if you type 4, will turn Design mode on and so you can edit anything
+
+|—if you type 5, you will fetch the IP of the website's IP
+
+|—if you type github/, you can put 'source' to see the source if shared or 'seba495g' to see the contributor
 
 📁 **What its cabable of**
 
@@ -25,13 +31,17 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |—Has a build in Calculator
 
+|—Can turn on DesignMode to edit anyting
+
+|—Can fetch the IP of the website your in
+
 📁 **Packages**
 
 |— [File Version 1.0](https://github.com/sebastian-sestaliuc/MultiTool-for-browser/releases/tag/untagged-8c4b74e6065bc985a849)
 
 |— [Plain Version 1.0](https://github.com/sebastian-sestaliuc/MultiTool-for-browser/releases/tag/untagged-f03fd2da5d5c0e3db887
 )
-
-|— [Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/untagged-af3b3e0ef39c2e8425b5) — **Latest**
+— **Latest**
+|— [Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/untagged-af3b3e0ef39c2e8425b5)
 
 📁 **end**
