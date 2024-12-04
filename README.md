@@ -24,5 +24,6 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |—Have a build in Calculator
 
-📁 **More commands will be added soon**
+📁 **Packages**
 
+|— [Version 1.0](https://github.com/sebastian-sestaliuc/MultiTool-for-browser/releases/tag/untagged-8c4b74e6065bc985a849)
