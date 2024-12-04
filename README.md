@@ -4,11 +4,21 @@
 
 this MultiTool was made in JavaScript
 
-if your worried if this will take your personal infomation, go ahed use [NordVPN's File Checker](https://nordvpn.com/file-checker/) (its free to use btw)
+if your worried if this will take your personal infomation, go use [NordVPN's File Checker](https://nordvpn.com/file-checker/) (its free to use btw)
 
 use this responsebly, since this is powerful for schools and even your own browser!
 
 📁 **How to use the MultiTool**
+
+|— Go to any website, i recommend [Google](google.com)
+
+|— Press Ctrl+Shift+i to enter Inspect
+
+|— after that, go to console, which is at the top
+
+|— when your in console, paste the code and press enter
+
+|— your done! here is a tutorial how to use the MultiTool
 
 |— It asks you to type 1, 2, 3, 4, 5 or github/source or seba495g.
 
@@ -28,13 +38,13 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |— Crash or slow down a Chromebook from the amount of data
 
-|— Make a tab unusable by message spamming
+|— Make a tab unusable by alert spamming
 
 |— Has a build in Calculator
 
 |— Can turn on Design Mode to edit anything
 
-|— Can fetch the IP of the website your in
+|— Can fetch the IP of the website's server your in
 
 📁 **Packages**
 
