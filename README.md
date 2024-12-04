@@ -24,27 +24,26 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |—if you type github/, you can put 'source' to see the source if shared or 'seba495g' to see the contributor
 
-📁 **What its cabable of**
+📁 **What its capable of**
 
-|—Crash or slow down a Chomebook from the amount of data
+|—Crash or slow down a Chromebook from the amount of data
 
 |—Make a tab unusable by message spamming
 
 |—Has a build in Calculator
 
-|—Can turn on DesignMode to edit anyting
+|—Can turn on Design Mode to edit anything
 
 |—Can fetch the IP of the website your in
 
 📁 **Packages**
 
-|— [❑ File Version 1.0](https://github.com/sebastian-sestaliuc/MultiTool-for-browser/releases/tag/untagged-8c4b74e6065bc985a849)
+|— [❑ File Version 1.0](https://github.com/seba495g/MultiTool-for-browser/releases/tag/v1.0.0Alpha)
 
-|— [❑ Plain Version 1.0](https://github.com/sebastian-sestaliuc/MultiTool-for-browser/releases/tag/untagged-f03fd2da5d5c0e3db887
-)
+|— [❑ Plain Version 1.0](https://github.com/seba495g/MultiTool-for-browser/releases/tag/v1.1.0Alpha)
 
 — **Latest** —
 
-|— [❑ Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/untagged-732f4a7a4a032453ee55)
+|— [❑ Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/v1.0.0Alpha%2BPlainText)
 
 📁 **end**
