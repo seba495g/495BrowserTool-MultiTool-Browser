@@ -46,14 +46,18 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |— Can fetch the IP of the website's server your in
 
+|— Use a timer or use a clock
+
 📁 **Packages**
 
 |— [❑ File Version 1.0](https://github.com/seba495g/MultiTool-for-browser/releases/tag/v1.0.0Alpha)
 
 |— [❑ Plain Version 1.0](https://github.com/seba495g/MultiTool-for-browser/releases/tag/v1.1.0Alpha)
 
+|— [❑ Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/v1.0.0Alpha%2BPlainText)
+
 — **Latest** —
 
-|— [❑ Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/v1.0.0Alpha%2BPlainText)
+|— [❑ Version 1.-beta.1.2](https://github.com/seba495g/495BrowserTool-MultiTool-Browser/releases/tag/v.1.1.2)
 
 📁 **end**
