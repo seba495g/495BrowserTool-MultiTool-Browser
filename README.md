@@ -10,31 +10,31 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 📁 **How to use the MultiTool**
 
-|—It asks you to type 1, 2, 3, 4, 5 or github/source or seba495g.
+|— It asks you to type 1, 2, 3, 4, 5 or github/source or seba495g.
 
-|—if you type 1, you'll get a JavaScript coded Calculator
+|— if you type 1, you'll get a JavaScript coded Calculator
 
-|-if you type 2, you'll make the tab unsuable by giving you a fake error message
+|- if you type 2, you'll make the tab unsuable by giving you a fake error message
 
-|-if you type 3, will make the browser unusable, and will freeze a Chomebook every 9 seconds
+|- if you type 3, will make the browser unusable, and will freeze a Chomebook every 9 seconds
 
-|-if you type 4, will turn Design mode on and so you can edit anything
+|- if you type 4, will turn Design mode on and so you can edit anything
 
-|—if you type 5, you will fetch the IP of the website's IP
+|— if you type 5, you will fetch the IP of the website's IP
 
-|—if you type github/, you can put 'source' to see the source if shared or 'seba495g' to see the contributor
+|— if you type github/, you can put 'source' to see the source if shared or 'seba495g' to see the contributor
 
 📁 **What its capable of**
 
-|—Crash or slow down a Chromebook from the amount of data
+|— Crash or slow down a Chromebook from the amount of data
 
-|—Make a tab unusable by message spamming
+|— Make a tab unusable by message spamming
 
-|—Has a build in Calculator
+|— Has a build in Calculator
 
-|—Can turn on Design Mode to edit anything
+|— Can turn on Design Mode to edit anything
 
-|—Can fetch the IP of the website your in
+|— Can fetch the IP of the website your in
 
 📁 **Packages**
 
