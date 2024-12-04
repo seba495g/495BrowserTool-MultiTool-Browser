@@ -31,4 +31,5 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |— [Plain Version 1.0](https://github.com/sebastian-sestaliuc/MultiTool-for-browser/releases/tag/untagged-f03fd2da5d5c0e3db887
 )
+
 📁 **end**
