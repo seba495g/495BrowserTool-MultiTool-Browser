@@ -14,7 +14,7 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |— Press Ctrl+Shift+i to enter Inspect
 
-|— after that, go to console, which is at the top
+|— after that, click on Console, which is at the top
 
 |— when your in console, paste the code and press enter
 
