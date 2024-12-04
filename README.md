@@ -44,6 +44,6 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 — **Latest** —
 
-|— [Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/untagged-af3b3e0ef39c2e8425b5)
+|— [Version 1.1](https://github.com/seba495g/MultiTool-for-browser/releases/tag/untagged-732f4a7a4a032453ee55)
 
 📁 **end**
