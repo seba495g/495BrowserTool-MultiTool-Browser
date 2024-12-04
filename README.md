@@ -23,7 +23,7 @@ use this responsebly, since this is powerful for schools and even your own brows
 
 |—Make a tab unusable by message spamming
 
-|—Have a build in Calculator
+|—Has a build in Calculator
 
 📁 **Packages**
 
