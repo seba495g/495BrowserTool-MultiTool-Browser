@@ -3,7 +3,7 @@
 
 this MultiTool was made in JavaScript
 
-if your worried if this will take your personal infomation, go ahed use [VirusTotal](https://www.virustotal.com/gui/home/upload)
+if your worried if this will take your personal infomation, go ahed use [NordVPN's File Checker](https://nordvpn.com/file-checker/) (its free to use btw)
 
 use this responsebly, since this is powerful for schools and even your own browser!
 
