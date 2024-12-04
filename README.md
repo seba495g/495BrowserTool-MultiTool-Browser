@@ -1,5 +1,6 @@
 **Welcome to Browser MultiTool**
 -
+**NOTE:** File's are at the bottem
 
 this MultiTool was made in JavaScript
 
